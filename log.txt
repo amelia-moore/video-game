@@ -1,0 +1,31 @@
+Video Game Log:
+
+August 30:
+
+- Created and uploaded pixel sprites for a couple of main characters
+- Fiddled with and got more accustomed to Unity engine
+- Made rough sketches in sketchbook for design of the main characters
+- Set up pixel perfect camera after lots of scouring the web for the package info and answers to technical issues
+- Got graphics for 8bit game style working
+- Attempted to upload to Github as a private repo, failed and left for the next day
+
+Left to do:
+- Sprites for main characters
+- Set up git repo
+- Backgrounds + Towns
+
+August 31:
+
+- Successfully set up git repo for the game
+- Drew and decided on more designs for the other main characters (2 pre-transformed designs left to do)
+- Decided to add a dialogue component to the story, so drew profile shot for one character
+- Added documentation (this log, notes/summary for the game, script doc)
+
+Left to do:
+- Draw dialogue box: 2
+- Decide on definitive story for the game: 1
+-- Finish first town: 1a
+-- Write up the script: 1b
+- Finish sprites: 3
+- Decide on font for text scroll for dialogue: 2
+(- Do audio, but that should come probably last)

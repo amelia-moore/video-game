@@ -1,0 +1,7 @@
+Video Game Notes:
+
+This game is intended to be a old-school Unity story-driven RPG. There are about 6 main characters (as well as their 
+later selves or replacement selves, so 12 characters in total), all inspired by real life (their symbolism, not necessarily 
+their appearances).
+The story is very dialogue-driven. The main characters will likely be characterized by profiles when their dialogue box comes up.
+All assets are made by myself, so they may look fine, or they may look not-so-fine. I intend to improve in the future.
