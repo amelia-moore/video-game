@@ -28,4 +28,23 @@ Left to do:
 -- Write up the script: 1b
 - Finish sprites: 3
 - Decide on font for text scroll for dialogue: 2
-(- Do audio, but that should come probably last)
+(- Do audio, but that should come probably completely last in the project)
+
+Sep 1:
+
+- Decided on story and main points of tutorial town
+- Drew Gemini sprites
+- Drew Reformed, Gemini houses
+- Made movement script for MC (player script) (can I also use that for characters trailing? unsure how i'm going to do that but 
+i'll figure something out later)
+- Set up dialogue character positioning
+- Designed house for Gemini, Rago, and Reformed
+- Finish assets today, code tomorrow
+
+Left to do:
+- Design + draw houses x2
+- Draw dialogue box, character dialogue busts, surrounding town area, items, house interiors x4 for now, 
+- Write script
+- need to get camera to follow player and stop at border of map: 3
+- Code the players moving etc
+- need to draw the other sides of sprites (profile l/r, diagonal x4, back x3, frontx2): 2
