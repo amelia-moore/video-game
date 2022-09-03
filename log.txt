@@ -55,20 +55,24 @@ reformed pre-change, MC: 1
 Sep 2:
 
 - Made scripts for dialogue characters/box and camera
+-- dialogue character icon now follows camera positioning
+-- set up camera to follow player
+-- set player to be unable to walk out of the camera or off the map
 - Debugged those scripts and now they work fine
 - Got initial assets in position
 - bashed my head in a wall from bugs in my code :D
 - Designed and drew outline of shop, coffee shop, mayor/sheriff's house
-- Lightning boy: Lexis
-- Leech girl: Komi Domin (after command and dominion but hey look it sounds innocent
+- Decided on names for the characters
+-- Lightning boy: Lexis
+-- Leech girl: Komi Domin (after command and dominion but hey look it sounds innocent
 shes not that bad right??? right)
-- Ice boy will probably be named Haven (i think ill make him have fire powers tho despite being blue)
-- Leech transformed: Cirra (after cirrus clouds that indicate warmth is coming)
-- Reformed pre-transformation: Luna (but she prefers to be called her middle name Colby lol)
+-- Ice boy will probably be named Haven (i think ill make him have fire powers tho despite being blue)
+-- Leech transformed: Cirra (after cirrus clouds that indicate warmth is coming)
+-- Reformed pre-transformation: Luna (but she prefers to be called her middle name Colby lol)
 get roasted sis
-- Reformed is gonna be some play on leasaithe (Sheateila? Asheteali) (irish reformed)
-- Healer dude: Aspen (after the super fast growing tree that even grows in winter)
-- MC: Kioku
+-- Reformed is gonna be some play on leasaithe (Sheateila? Asheteali) (irish reformed)
+-- Healer dude: Aspen (after the super fast growing tree that even grows in winter)
+-- MC: Kioku
 - Finished small hotspots around the town (bridge, river, etc)
 
 Left to do:
