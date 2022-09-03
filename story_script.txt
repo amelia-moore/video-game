@@ -1,2 +1,80 @@
 Video Game Script:
 
+    Preface:
+
+    <cutscene feat the mirror girl version)
+
+    Scene 1: *****needs major editing*****
+    (sitting at your desk, and get up after the doorbell rings)
+    You: Looks like she's here
+    (go downstairs)
+    L: Hey! You free to come and hang out?
+    You: Oh, I have some work to get done...
+    L: (sad face)
+    You: Oh, but a break won't hurt I suppose?
+    L: (smiles all around) Great! Come on, let's get the others--
+    Old man in distance: oh there you are! I came around earlier but you must've been asleep MC.
+    You: Hmm? What's going on?
+    Old man in distance: I have to talk to you about something... but not right now. Follow me
+    to my shop -- I need to pass on some items from there to you. It's urgent. (leave)
+    L: Well, I guess we've found what we're going to do today! But first, let's get the others
+    You: Didn't he say to follow him to his shop? He said it was urgent.
+    L: Eh, he can wait a bit. Let's just get the others first. They'll be sad if we leave them 
+    behind -- I would be if I were them.
+    You: .....I suppose so. Alright, but let's make it quick.
+    
+    (obtain the others):
+    <dialogue with others here, including side characters>
+
+    R: Oh hey guys, how's it going?
+    L: Hey! What're you doing?
+    R: ............uh (shifty)............. nothing much really, just watching videos online
+    L: Cool! Well, we gotta get MC here over to the old man's shop.
+    R: What for?
+    L: He needs MC for something. Not sure what, but he said it was urgent.
+    R: Oh, alright. Let's go then.
+
+    G1: ......oh hi guys! how's it going?
+    L: Hey G1! We're good, how's it going here?
+    G1: ......oh not much you know, still attached to my twin.
+    L: Well, we gotta go talk to the old man down at the shop, you coming?
+    G1: ......i can't really go anywhere without my twin. if he says sure, then i can come along
+    L: Sure, we'll go talk to him!
+
+    L: G2! Hey, we're going down to the old man's shop. He needs MC for something. You coming?
+    G2: ....
+    L: .......
+    G2: Sure, fine by me.
+    L: ....well cool then
+    MC: <says some sentence to set G2 up for a witty comment>
+    G2: <said witty comment>
+    MC: <laugh>
+    L: Alright well, let's move on now since we have these two. HEY G1, WE'RE OFF NOW WITH YOUR TWIN!
+    (in the distance) G1: ....sure!!!
+    L: Let's move out! (XD)
+
+    S: Hey guys!
+    MC: Old man x needs me at his shop. You coming?
+    S: .....and why did i need to know that? S:)
+    L: Because we want you to come with!
+    S: S:/ ok?
+    L: ....you in?
+    S: Sure, I guess?
+    L: Cool! Well, let's go then.
+
+    OM: Oh, good! I was afraid you'd gotten lost -- oh, you have friends with you.
+    MC: Is this an alone thing?
+    OM: Oh, no. It's not an issue. So you got your friends? I mean, that's fine, although this
+    is kind of an urgent request... nevermind. Anyways, 
+    <explains whole goal, talks about how you gotta sacrifice yourself>
+    <maybe ur the chosen one supposedly so says the old man from his research, then later u find
+    runes that talk about sacrificing 5 significant items with life inside them works too>
+    <samo is distracted and wandering and can't hear>
+    L: MC, you have a greater purpose! You're like the main character here, not just the side 
+    character anymore! Hey old man, we'll go. You wanted to give us items?
+    MC: Wait, this is my life we're talking about--
+    <gives magic items>
+    L: Thanks so much! Alright crew, roll out!
+    MC: I'm gonna die...?
+
+    L: Okay, let's go see the old woods now, like that old man said
